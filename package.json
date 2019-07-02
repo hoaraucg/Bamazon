@@ -1,0 +1,18 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "Bamazon, A CLI App for Storefront Interaction",
+  "main": "bamazonCustomer.js",
+  "dependencies": {
+    "cli-table": "^0.3.1",
+    "console.table": "^0.10.0",
+    "inquirer": "^6.4.1",
+    "mysql": "^2.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
